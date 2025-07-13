@@ -1,6 +1,6 @@
-# 📊 Netflix Data Visualization – CodeAlpha Internship Task 3
+# 📊 Netflix Data Visualization – CodeAlpha Internship Task
 
-This repository contains my submission for **Task 3: Data Visualization** as part of the **CodeAlpha Data Analytics Virtual Internship**.
+This repository contains my submission for **Data Visualization** as part of the **CodeAlpha Data Analytics Virtual Internship**.
 
 ---
 
